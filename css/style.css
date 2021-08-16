@@ -1,0 +1,9 @@
+.bg-price-color{
+    background-color: rgb(242, 235, 252);
+}
+.min-bg-img{
+    background-image: url("../New folder/order-summary-component-main/images/pattern-background-desktop.svg");
+background-repeat: no-repeat;
+   background-size: contain;
+    background-color: rgb(242, 235, 252);
+}
